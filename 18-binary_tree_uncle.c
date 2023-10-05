@@ -1,10 +1,11 @@
 #include "binary_trees.h"
 
 /**
-* search_uncle - the identfier for 
-* @node: the identfier for 
-* Return: the identfier for 
+* search_uncle - the identfier for
+* @node: the identfier for
+* Return: the identfier for
 */
+
 binary_tree_t *search_uncle(binary_tree_t *node)
 {
 	binary_tree_t *root_tree = NULL;

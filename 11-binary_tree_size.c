@@ -2,6 +2,7 @@
 
 /**
 * binary_tree_size - identifier for
+* @binary_tree_t: identifier for
 * @tree: identifier forL
 */
 
